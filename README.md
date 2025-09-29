@@ -33,7 +33,7 @@
 
 ### 🚪 Logout
 - Khi logout, hệ thống tự động trả về trang Login:  
-  ![alt text](image-4.png)
+  ![Logout](assets/image-4.png)
 
 ---
 
